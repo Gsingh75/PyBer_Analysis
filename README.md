@@ -10,4 +10,5 @@ The following are some of the observations made during the analysis:
 * The Rural cities have the highest 'Average Fare per Ride' and 'Average Fare per Driver'.
 * The Urban cities have the lowest 'Average Fare per Ride' and 'Average Fare per Driver'.
 ## Summary:
+![PyBer_fare_summary](https://user-images.githubusercontent.com/73635290/211465544-43804afe-e86a-49b8-bf7d-65b9a6bb04e9.png)
 
